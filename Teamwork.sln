@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Teamwork", "Teamwork\Teamwork.vcxproj", "{9CBB68A5-54BE-4C4F-A582-185FDD22F2AE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sample-Test1", "Sample-Test1\Sample-Test1.vcxproj", "{DE29636E-5445-494F-98A6-713C6D917731}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{9CBB68A5-54BE-4C4F-A582-185FDD22F2AE}.Release|x64.Build.0 = Release|x64
 		{9CBB68A5-54BE-4C4F-A582-185FDD22F2AE}.Release|x86.ActiveCfg = Release|Win32
 		{9CBB68A5-54BE-4C4F-A582-185FDD22F2AE}.Release|x86.Build.0 = Release|Win32
+		{DE29636E-5445-494F-98A6-713C6D917731}.Debug|x64.ActiveCfg = Debug|x64
+		{DE29636E-5445-494F-98A6-713C6D917731}.Debug|x64.Build.0 = Debug|x64
+		{DE29636E-5445-494F-98A6-713C6D917731}.Debug|x86.ActiveCfg = Debug|Win32
+		{DE29636E-5445-494F-98A6-713C6D917731}.Debug|x86.Build.0 = Debug|Win32
+		{DE29636E-5445-494F-98A6-713C6D917731}.Release|x64.ActiveCfg = Release|x64
+		{DE29636E-5445-494F-98A6-713C6D917731}.Release|x64.Build.0 = Release|x64
+		{DE29636E-5445-494F-98A6-713C6D917731}.Release|x86.ActiveCfg = Release|Win32
+		{DE29636E-5445-494F-98A6-713C6D917731}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
